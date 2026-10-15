@@ -1,16 +1,16 @@
 # Server Module Variables
 variable "instance_name {
-  description = "instance name"
+  description = "instance_name"
   default = ""
 }
 
 variable "ami" {
-    description = "Go with your AMI ID"
+    description = "Go-with-your-AMI-ID"
     default     = "ami-xxxx"
 }
 
 variable "instance_type" {
-    description = "instance type"
+    description = "instance_type"
 }
 
 variable "key" {
