@@ -1,5 +1,5 @@
 # Server Module Variables
-variable "instance_name {
+variable "instance_name" {
   description = "instance_name"
   default = ""
 }
